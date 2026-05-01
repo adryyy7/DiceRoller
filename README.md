@@ -1,5 +1,4 @@
 # DiceRoller
-### Adriano Mizzi - 5Ei
 
 App Android che simula il lancio di un dado a 20 facce.
 
